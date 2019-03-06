@@ -4,7 +4,9 @@
 
 # Environment
 
-vs2013 EPC660芯片
+vs2013
+
+EPC660芯片
 
 # Contents
 1. 对获取的数据进行均值滤波
